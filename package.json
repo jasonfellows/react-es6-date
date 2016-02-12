@@ -1,0 +1,24 @@
+{
+  "name": "react-the-date",
+  "version": "0.1.0",
+  "description": "Fully-featured React datepicker using Moment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start --single-run=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasonfellows/react-the-date.git"
+  },
+  "keywords": [
+    "react",
+    "datepicker",
+    "moment"
+  ],
+  "author": "Jason Fellows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonfellows/react-the-date/issues"
+  },
+  "homepage": "https://github.com/jasonfellows/react-the-date#readme"
+}
